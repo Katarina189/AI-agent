@@ -1,9 +1,9 @@
 
-# 🚀 AI Travel Agent (Agent1)
+# 🚀 AI Travel Agent
 
 ## 🌍 Project Overview
 
-This Jupyter Notebook (`agent1.ipynb`) is an implementation of an AI-based travel assistant from scratch. The goal of the project is to build an AI agent capable of executing tasks iteratively through the **Think-Act-Learn** cycle. The agent follows the **ReAct** pattern, where it reasons about a problem, takes action based on observations, and refines its approach iteratively.
+This Jupyter Notebook (`agent1.ipynb`) is an implementation of an AI-based travel assistant from scratch. The goal of my project is to build an AI agent capable of executing tasks iteratively through the **Think-Act-Learn** cycle. The agent follows the **ReAct** pattern, where it reasons about a problem, takes action based on observations, and refines its approach iteratively.
 
 The project does not rely on **LangGraph** but instead implements a foundational AI agent architecture using Python libraries.
 
